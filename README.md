@@ -1,2 +1,2 @@
-# whitepaper
-Veve One’s whitepaper
+# Veve One: The World’s First Open Source Virtual Character
+**Abstract.** The Internet builds a purely online world. Satoshi Nakamoto creates a purely virtual currency. A purely open source virtual character is introduced, whose name is called Veve One. There are already many virtual characters created in past years, such as Hatsune Mike and Kizuna AI. However, all of their copyrights are owned by some compaines.
